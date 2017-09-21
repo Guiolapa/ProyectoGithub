@@ -135,7 +135,11 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 442}
   m_MaxSize: {x: 4002, y: 8042}
   vertical: 1
+<<<<<<< HEAD
   controlID: 47
+=======
+  controlID: 68
+>>>>>>> Proyecto2
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -206,12 +210,16 @@ MonoBehaviour:
     height: 1307
   m_MinSize: {x: 277, y: 71}
   m_MaxSize: {x: 4002, y: 4021}
+<<<<<<< HEAD
   m_ActualView: {fileID: 12}
+=======
+  m_ActualView: {fileID: 14}
+>>>>>>> Proyecto2
   m_Panes:
   - {fileID: 14}
   - {fileID: 12}
-  m_Selected: 1
-  m_LastSelected: 0
+  m_Selected: 0
+  m_LastSelected: 1
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,7 +331,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: dafbffff00000000
+    m_ExpandedIDs: b8fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -368,10 +376,10 @@ MonoBehaviour:
   m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-    x: 1977
-    y: 17
-    width: 567
-    height: 1270
+    x: 1988
+    y: 92
+    width: 572
+    height: 1286
   m_ScrollPosition: {x: 0, y: 0}
   m_InspectorMode: 0
   m_PreviewResizer:
@@ -426,9 +434,15 @@ MonoBehaviour:
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: b2240000
     m_LastClickedID: 9394
     m_ExpandedIDs: 00000000b224000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: b8240000
+    m_LastClickedID: 9400
+    m_ExpandedIDs: 00000000b824000000ca9a3bffffff7f
+>>>>>>> Proyecto2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -456,7 +470,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000b2240000
+=======
+    m_ExpandedIDs: 00000000b8240000
+>>>>>>> Proyecto2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -500,7 +518,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 8}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
